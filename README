@@ -1,0 +1,11 @@
+*************************************
+SimpleAPI
+AUTHOR: (c) 2011 Mauro Parra-Miranda <mauropm@gmail.com>
+
+
+ABSTRACT: This is an example of a very simple api that 
+          will provide a support for injecting messages
+          to a db. 
+
+See LICENSE.txt file for more info about the licensing. 
+************************************
